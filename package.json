@@ -2,7 +2,7 @@
   "name": "convert-px-to-rem-units",
   "displayName": "Convert px to rem units",
   "description": "Convert selected px denotation to rem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "scardonadev",
   "engines": {
     "vscode": "^1.96.0"

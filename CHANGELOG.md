@@ -7,3 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [1.0.1] - 2025-01-23
+
+### Changed
+- Eliminación de ceros sobrantes al final de los decimales y omisión de decimales si el número es entero en la conversión de px a rem.
