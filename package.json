@@ -3,6 +3,7 @@
   "displayName": "Convert px to rem",
   "description": "Convert selected px denotation to rem",
   "version": "1.0.0",
+  "publisher": "scardonadev",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -28,6 +29,7 @@
       ]
     }
   },
+  "license": "LICENSE.txt",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
