@@ -1,6 +1,6 @@
 {
-  "name": "convert-px-to-rem",
-  "displayName": "Convert px to rem",
+  "name": "convert-px-to-rem-units",
+  "displayName": "Convert px to rem units",
   "description": "Convert selected px denotation to rem",
   "version": "1.0.0",
   "publisher": "scardonadev",

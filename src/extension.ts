@@ -33,7 +33,7 @@ export function activate(context: vscode.ExtensionContext) {
         const text = editor.document.getText(selection);
         const regex = /(\d+)px/g;
         const newText = text.replace(regex, (match, p1) => {
-          const remValue = (parseInt(p1) / 16).toFixed(2) + "rem";
+          const remValue = (parseInt(p1) / 16).toFixed(4) + "rem";
           counter++;
           return remValue;
         });
